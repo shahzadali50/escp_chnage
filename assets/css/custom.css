@@ -1,0 +1,32 @@
+.bg_orange{
+    background-color: rgb(255, 102, 0);
+}
+.orange{
+    color: rgb(255, 102, 0);
+}
+.blue{
+    color:rgb(0, 6, 102);
+}
+
+.page-head .bg_orange:hover{
+    background-color: orangered;
+}
+/* contact-us */
+.contact-us{
+    min-height: 550px;
+}
+.contact-us ul li {
+    font-size: 20px;
+    margin-bottom: 8px;
+    
+}
+.contact-us ul li a {
+    font-size: 20px;
+    color: gray;
+}
+.cta-button{
+    background-color: rgb(255, 102, 0);
+}
+.cta-button:hover{
+    background-color: orangered;
+}
