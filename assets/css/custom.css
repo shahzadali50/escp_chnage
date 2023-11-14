@@ -63,7 +63,7 @@ section{
 /* Style the video element */
 .banner video {
     width: 100%;
-    height: auto;
+    height: 400px;
     display: block;
 }
 /* .nous */
@@ -166,6 +166,20 @@ section{
 @media only screen and (max-width: 576px) {
     .services p.font-18px{
         padding-right: 0px;
+    }
+    .font-60px{
+       
+        font-size: 40px;
+       
+    }
+    .section-60{
+        padding-bottom: 0px;
+    }
+    .section-65{
+        padding-top: 0px;
+    }
+    section{
+        padding: 30px 0px;
     }
 
 }
