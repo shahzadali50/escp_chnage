@@ -1737,7 +1737,8 @@ address {
 
 @media (max-width: 768px) {
   .wistia_embed {
-    height: 25vh !important;
+    /* height: 100% !important; */
+    margin: 0px auto;
   }
 }
 /*@media (max-width: 768px) {*/
